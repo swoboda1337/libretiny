@@ -27,7 +27,7 @@
         "any": "gccarmnoneeabi@~1.100301.0"
       },
       "libraries": {
-        "freertos": "8.1.2",
+        "freertos": "8.2.0",
         "lwip": {
           "1.4.1": "1.4.1-amb1",
           "2.0.0": "2.0.0-amb1",
